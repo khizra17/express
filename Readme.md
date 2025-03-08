@@ -5,6 +5,7 @@
 **This project has a [Code of Conduct][].**
 
 ## Table of contents
+# Khizra Nasir
 
 * [Installation](#Installation)
 * [Features](#Features)
